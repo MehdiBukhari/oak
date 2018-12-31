@@ -282,10 +282,6 @@ while (iter.hasNext()) {
 }
 ```
 
-## Contribute
-
-Please refer to the [contributing file](./CONTRIBUTING.md) for information about how to get involved. We welcome issues, questions, and pull requests.  
-
 
 ## License
 
